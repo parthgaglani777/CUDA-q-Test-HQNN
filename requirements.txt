@@ -1,1 +1,5 @@
 cudaq
+numpy
+scipy
+scikit-learn
+pandas
